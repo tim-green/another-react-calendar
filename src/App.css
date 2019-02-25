@@ -52,7 +52,8 @@ body {
 }
 
 header {
-  display: block;
+  /*display: block;*/
+  display: none;
   width: 100%;
   padding: 1.75em 0;
   border-bottom: 1px solid var(--border-color);
